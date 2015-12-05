@@ -53,6 +53,12 @@ strong {
 .light {
   font-weight: 400;
 }
+.text-primary-strong {
+  color: #43B58B;
+}
+.gl-button {
+  border: 3px solid #43B58B !important;
+}
 .navbar-custom {
   margin-bottom: 0;
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
@@ -223,6 +229,9 @@ strong {
 }
 .contact-container {
   padding-bottom: 200px;
+}
+.my-pic-container {
+  padding-bottom: 25px;
 }
 .social-button-container {
   padding-top: 75px;
